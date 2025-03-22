@@ -1,0 +1,23 @@
+---
+title: Projects
+---
+
+## American Heart Association
+
+American Heart Association:
+
+Collaborated with stakeholders at AHA, Florida Agency for Health Care Administration,
+and the University of Miami Health System on a policy brief centered around Florida
+Medicaid reimbursements for the acquisition and use of Self Measured Blood Pressure
+Devices for the management of hypertension
+
+
+
+-----
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

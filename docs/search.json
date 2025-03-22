@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHello! My name is Zuhair Khan. I’m a graduate student and staff member in the Department of Population and Quantitative Health Sciences at CWRU School of Medicine, where I’m pursuing a master’s in Biomedical and Health Informatics and working as an Enrollment Specialist.\nBefore coming to CWRU, I completed my MPH at the University of Miami and earned my BS in Molecular and Cellular Biology from the University of Illinois Urbana-Champaign. I also worked as a community health worker, which helped shape my interest in the intersection of health data, equity, and systems-level change.\nMy academic and professional interests lie in clinical and translational sciences, with a focus on quantitative methods, healthcare services, and management. I’m especially interested in improving the quality and affordability of healthcare delivery in the U.S. through evidence-based policy and operational improvements. In the future, I hope to pursue a PhD in health policy or a related field like health management or operations research to contribute meaningfully to this space.\nI’ve had the opportunity to work in a range of healthcare settings, which deepened my understanding of the structural challenges within our system—and the levers we can use to create more equitable and effective care.\nI’m originally from New Orleans and grew up in Chicago after Hurricane Katrina. I’m the proud child of two Indian Muslim immigrants and part of a big, loving family. I’m also lucky to have great friends, two amazing older siblings, a wonderful brother-in-law, and a chubby orange cat. In my free time, I enjoy learning, volunteering, reading, making music, laughing, dancing, and exploring new food and cultures.\nPlease feel free to check out my background and CV to learn more!\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "American Heart Association:\nCollaborated with stakeholders at AHA, Florida Agency for Health Care Administration, and the University of Miami Health System on a policy brief centered around Florida Medicaid reimbursements for the acquisition and use of Self Measured Blood Pressure Devices for the management of hypertension\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html#american-heart-association",
+    "href": "projects/index.html#american-heart-association",
+    "title": "Projects",
+    "section": "",
+    "text": "American Heart Association:\nCollaborated with stakeholders at AHA, Florida Agency for Health Care Administration, and the University of Miami Health System on a policy brief centered around Florida Medicaid reimbursements for the acquisition and use of Self Measured Blood Pressure Devices for the management of hypertension\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "One of the points that stood out to me in Jeff Leek’s How to Be a Modern Scientist is that the question is no longer should we share data, but how can we do it better. That shift in mindset really resonated with me, especially as someone interested in health informatics and how data gets used (or misused) in real-world healthcare settings.\nIn fields like public health and medicine, the impact of poor data practices can be serious—from delays in treatment decisions to gaps in operational planning. So reading about the importance of transparency and reproducibility in science felt especially relevant. It reminded me that scientific research doesn’t exist in a vacuum—how we handle data can have ripple effects that extend far beyond the lab.\nLeek also mentions that even in data-heavy fields like genomics, many researchers haven’t been trained to manage and organize data well. I’ve seen something similar in healthcare, where datasets pulled from different hospital systems or research teams often have inconsistent formatting, missing labels, or confusing variable names. While tools like R or Python can help clean up the mess, the process is much easier and more effective when the original data is well-documented.\nAnother idea I appreciated from the book was that researchers who collect and clean datasets should be more formally recognized. In many cases, gathering good data takes just as much work as writing a paper, but that effort doesn’t always get the same level of attention or reward. In my field, I’ve benefited from publicly available datasets for modeling and analysis. It made me realize how important it is to credit the people behind that work.\nEven though we know open data can accelerate research, it’s still not always easy to access. I’ve come across studies where the dataset is either hard to find, locked behind a paywall, or missing entirely. That can make it really difficult to reproduce results or build on previous work. Leek talks about how the current academic system still tends to reward novelty over openness, and I think that’s something the research community is still figuring out how to address.\nHe also brings up the tension between encouraging data sharing and protecting the efforts of data generators. It’s a tricky balance—on one hand, collaboration can lead to stronger science, but on the other, requiring co-authorship might discourage people from sharing in the first place. I thought his suggestion to rethink how we credit data contributors—maybe even through more formal systems of recognition—was a helpful idea."
+  },
+  {
+    "objectID": "blog/index.html#moving-toward-better-data-practices-in-science-a-post-inspired-by-jeffrey-leeks-how-to-be-a-modern-scientist",
+    "href": "blog/index.html#moving-toward-better-data-practices-in-science-a-post-inspired-by-jeffrey-leeks-how-to-be-a-modern-scientist",
+    "title": "Blog",
+    "section": "",
+    "text": "One of the points that stood out to me in Jeff Leek’s How to Be a Modern Scientist is that the question is no longer should we share data, but how can we do it better. That shift in mindset really resonated with me, especially as someone interested in health informatics and how data gets used (or misused) in real-world healthcare settings.\nIn fields like public health and medicine, the impact of poor data practices can be serious—from delays in treatment decisions to gaps in operational planning. So reading about the importance of transparency and reproducibility in science felt especially relevant. It reminded me that scientific research doesn’t exist in a vacuum—how we handle data can have ripple effects that extend far beyond the lab.\nLeek also mentions that even in data-heavy fields like genomics, many researchers haven’t been trained to manage and organize data well. I’ve seen something similar in healthcare, where datasets pulled from different hospital systems or research teams often have inconsistent formatting, missing labels, or confusing variable names. While tools like R or Python can help clean up the mess, the process is much easier and more effective when the original data is well-documented.\nAnother idea I appreciated from the book was that researchers who collect and clean datasets should be more formally recognized. In many cases, gathering good data takes just as much work as writing a paper, but that effort doesn’t always get the same level of attention or reward. In my field, I’ve benefited from publicly available datasets for modeling and analysis. It made me realize how important it is to credit the people behind that work.\nEven though we know open data can accelerate research, it’s still not always easy to access. I’ve come across studies where the dataset is either hard to find, locked behind a paywall, or missing entirely. That can make it really difficult to reproduce results or build on previous work. Leek talks about how the current academic system still tends to reward novelty over openness, and I think that’s something the research community is still figuring out how to address.\nHe also brings up the tension between encouraging data sharing and protecting the efforts of data generators. It’s a tricky balance—on one hand, collaboration can lead to stronger science, but on the other, requiring co-authorship might discourage people from sharing in the first place. I thought his suggestion to rethink how we credit data contributors—maybe even through more formal systems of recognition—was a helpful idea."
+  },
+  {
+    "objectID": "blog/index.html#final-reflection",
+    "href": "blog/index.html#final-reflection",
+    "title": "Blog",
+    "section": "Final Reflection",
+    "text": "Final Reflection\nReading How to Be a Modern Scientist reminded me that good data practices are about more than just efficiency—they’re about building trust, supporting collaboration, and ultimately making science more useful to the communities it’s meant to serve.\nAs I continue learning about data in the context of healthcare policy and operations, I hope to carry these ideas with me. Whether it’s contributing to a team project or working with larger systems, I want to be more intentional about how data is handled, documented, and shared.\n\nView the tutorial for this template (+ download link)"
+  }
+]

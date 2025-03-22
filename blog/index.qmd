@@ -1,0 +1,34 @@
+---
+title: Blog
+
+---
+
+
+## Moving Toward Better Data Practices in Science, a post inspired by Jeffrey Leek's "How to be a Modern Scientist" 
+
+One of the points that stood out to me in Jeff Leek’s How to Be a Modern Scientist is that the question is no longer should we share data, but how can we do it better. That shift in mindset really resonated with me, especially as someone interested in health informatics and how data gets used (or misused) in real-world healthcare settings.
+
+In fields like public health and medicine, the impact of poor data practices can be serious—from delays in treatment decisions to gaps in operational planning. So reading about the importance of transparency and reproducibility in science felt especially relevant. It reminded me that scientific research doesn’t exist in a vacuum—how we handle data can have ripple effects that extend far beyond the lab.
+
+Leek also mentions that even in data-heavy fields like genomics, many researchers haven’t been trained to manage and organize data well. I’ve seen something similar in healthcare, where datasets pulled from different hospital systems or research teams often have inconsistent formatting, missing labels, or confusing variable names. While tools like R or Python can help clean up the mess, the process is much easier and more effective when the original data is well-documented.
+
+Another idea I appreciated from the book was that researchers who collect and clean datasets should be more formally recognized. In many cases, gathering good data takes just as much work as writing a paper, but that effort doesn’t always get the same level of attention or reward. In my field, I’ve benefited from publicly available datasets for modeling and analysis. It made me realize how important it is to credit the people behind that work.
+
+Even though we know open data can accelerate research, it’s still not always easy to access. I’ve come across studies where the dataset is either hard to find, locked behind a paywall, or missing entirely. That can make it really difficult to reproduce results or build on previous work. Leek talks about how the current academic system still tends to reward novelty over openness, and I think that’s something the research community is still figuring out how to address.
+
+He also brings up the tension between encouraging data sharing and protecting the efforts of data generators. It’s a tricky balance—on one hand, collaboration can lead to stronger science, but on the other, requiring co-authorship might discourage people from sharing in the first place. I thought his suggestion to rethink how we credit data contributors—maybe even through more formal systems of recognition—was a helpful idea.
+
+
+## Final Reflection
+
+Reading How to Be a Modern Scientist reminded me that good data practices are about more than just efficiency—they’re about building trust, supporting collaboration, and ultimately making science more useful to the communities it’s meant to serve.
+
+As I continue learning about data in the context of healthcare policy and operations, I hope to carry these ideas with me. Whether it’s contributing to a team project or working with larger systems, I want to be more intentional about how data is handled, documented, and shared.
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

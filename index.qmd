@@ -1,0 +1,41 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/headshot2.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/zmk27
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zuhair-khan-/
+    - icon: envelope
+      text: Email
+      href: "mailto:zmk27@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hello! My name is Zuhair Khan. I’m a graduate student and staff member in the Department of Population and Quantitative Health Sciences at CWRU School of Medicine, where I’m pursuing a master’s in Biomedical and Health Informatics and working as an Enrollment Specialist.
+
+Before coming to CWRU, I completed my MPH at the University of Miami and earned my BS in Molecular and Cellular Biology from the University of Illinois Urbana-Champaign. I also worked as a community health worker, which helped shape my interest in the intersection of health data, equity, and systems-level change.
+
+My academic and professional interests lie in clinical and translational sciences, with a focus on quantitative methods, healthcare services, and management. I’m especially interested in improving the quality and affordability of healthcare delivery in the U.S. through evidence-based policy and operational improvements. In the future, I hope to pursue a PhD in health policy or a related field like health management or operations research to contribute meaningfully to this space.
+
+I’ve had the opportunity to work in a range of healthcare settings, which deepened my understanding of the structural challenges within our system—and the levers we can use to create more equitable and effective care.
+
+I’m originally from New Orleans and grew up in Chicago after Hurricane Katrina. I’m the proud child of two Indian Muslim immigrants and part of a big, loving family. I’m also lucky to have great friends, two amazing older siblings, a wonderful brother-in-law, and a chubby orange cat. In my free time, I enjoy learning, volunteering, reading, making music, laughing, dancing, and exploring new food and cultures.
+
+Please feel free to check out my background and CV to learn more!
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+
